@@ -1,0 +1,8 @@
+@startuml
+group index.php
+  group blog-header.php
+    - wp-load.php
+    - wp()
+    - template-loader.php
+end
+@enduml

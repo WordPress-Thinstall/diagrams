@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="361px" preserveAspectRatio="none" style="width:213px;height:361px;" version="1.1" viewBox="0 0 213 361" width="213px" zoomAndPan="magnify"><defs><filter height="300%" id="f1diuyjc032ycw" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#f1diuyjc032ycw)" height="339.5" style="stroke: #000000; stroke-width: 2.0;" width="192" x="10" y="10.8018"/><path d="M88,11.8018 L88,20.0986 L78,30.0986 L10,30.0986 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="13" y="24.7969">index.php</text><rect fill="#FFFFFF" filter="url(#f1diuyjc032ycw)" height="283.2031" style="stroke: #000000; stroke-width: 2.0;" width="172" x="20" y="47.0986"/><path d="M145,48.0986 L145,56.3955 L135,66.3955 L20,66.3955 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="115" x="23" y="61.0938">blog-header.php</text><rect fill="#FEFECE" filter="url(#f1diuyjc032ycw)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="100" x="56" y="83.3955"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="76" x="70" y="104.5342">wp-load.php</text><rect fill="#FEFECE" filter="url(#f1diuyjc032ycw)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="51" x="80.5" y="152.3643"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="27" x="94.5" y="173.5029">wp()</text><rect fill="#FEFECE" filter="url(#f1diuyjc032ycw)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="152" x="30" y="221.333"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="128" x="44" y="242.4717">template-loader.php</text><ellipse cx="106" cy="300.3018" fill="#FFFFFF" filter="url(#f1diuyjc032ycw)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 2.5;" x1="99.8128" x2="112.1872" y1="294.1146" y2="306.4889"/><line style="stroke: #000000; stroke-width: 2.5;" x1="112.1872" x2="99.8128" y1="294.1146" y2="306.4889"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="106" x2="106" y1="117.3643" y2="152.3643"/><polygon fill="#A80036" points="102,142.3643,106,152.3643,110,142.3643,106,146.3643" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="106" x2="106" y1="186.333" y2="221.333"/><polygon fill="#A80036" points="102,211.333,106,221.333,110,211.333,106,215.333" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="106" x2="106" y1="255.3018" y2="290.3018"/><polygon fill="#A80036" points="102,280.3018,106,290.3018,110,280.3018,106,284.3018" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+group index.php
+  group blog-header.php
+    - wp-load.php
+    - wp()
+    - template-loader.php
+end
+@enduml
+
+PlantUML version 1.2017.15(Mon Jul 03 17:45:34 BST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_144-b01
+Operating System: Linux
+OS Version: 4.4.0-89-generic
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
